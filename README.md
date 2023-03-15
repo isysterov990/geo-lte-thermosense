@@ -30,6 +30,7 @@ Other potential uses for this device include monitoring temperature and location
 - [x] Enclosure
 
 ## Enclosure
+The enclosure for the device was designed using Onshape, a cloud-based 3D CAD software, and 3D printed using an Ender 3 printer with PLA filament. The design of the enclosure ensures that the device is protected from the elements and can withstand harsh environmental conditions.
 ![enclosure](./doc/GeoLTEThermosensorAssembly.png)
 ![assembly1](./doc/Assembly_1.jpg)
 ![assembly2](./doc/Assembly_2.jpg)
