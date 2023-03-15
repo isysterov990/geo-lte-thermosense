@@ -8,19 +8,20 @@
 ## Todo
 
 - [x] Sync time with RTC
-- [ ] Handle server communications using the defined protocol
-  - [ ] Write to config file
-  - [ ] Add firmware version and SD card status to heartbeat
+- [x] Handle server communications using the defined protocol
+  - [x] Write to config file
+  - [x] Add firmware version and SD card status to heartbeat
 - [x] Initial draft for the communications protocol [WIP]
 - [x] LTE attaching/connecting timeout (default to 10 seconds)
 - [x] Log to a file
 - [x] Procedure for OTA updates
-- [ ] Implement OTA updates with protocol
+- [x] Implement OTA updates with protocol
 - [x] Flashing custom firware (code security)
-- [ ] Figure out sending/receiving SMS
-- [ ] Enclosure
-    - https://toolless.com/
-    - https://evatron.com/enclosures/rectangular-potting-boxes/rectangular-potting-boxes-rl-series/rl6115/
+- [x] Figure out sending/receiving SMS
+- [x] Enclosure
+
+## Enclosure
+![enclosure](./doc/GeoLTEThermosensorAssembly.png)
 
 ## Gpy Pinout   
 
