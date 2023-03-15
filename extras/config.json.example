@@ -1,0 +1,10 @@
+{
+    "log_level": 3,
+    "server_port": 8883,
+    "server_address": "trackensure.com",
+    "server_use_ssl": 0,
+    "server_timeout": 20,
+    "sleep_seconds": 50,
+    "gps_timeout": 20,
+    "ruuvi_enabled": 1
+  }
