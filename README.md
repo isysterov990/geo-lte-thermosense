@@ -22,8 +22,8 @@
 
 ## Enclosure
 ![enclosure](./doc/GeoLTEThermosensorAssembly.png)
-![assembly1](./doc/Assembly_1.png)
-![assembly2](./doc/Assembly_2.png)
+![assembly1](./doc/Assembly_1.jpg)
+![assembly2](./doc/Assembly_2.jpg)
 ## Gpy Pinout   
 
 ![gpy-pinout](./doc/gpy-pinout.png)
