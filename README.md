@@ -1,4 +1,4 @@
-# Retina Tracker
+# Geo LTE Thermosense
 
 ## Docs
 - [Project Requirements](./doc/requirements.md)
