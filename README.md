@@ -1,5 +1,14 @@
 # Geo LTE Thermosense
 
+## Abstract
+This project involves the development of a device that uses a TMP117 temperature sensor, a 9000mAh battery, a Pycom Pytrack for GPS data and a Pycom Gpy for sending data over LTE using Queltel-L76 GNSS. The device is designed to send sensor data every 3 minutes and has a battery life of 9-12 months, making it ideal for long-term use in a variety of applications.
+
+One potential use for this device is in the transportation industry, specifically for trucks that transport goods. The device can be used to monitor the temperature inside the truck, ensuring that the goods are being transported in a suitable environment. Additionally, the device can be used to track the location of the truck and monitor its movements, providing valuable data for logistics and supply chain management.
+
+Another potential use for this device is in the medical industry, specifically for organ transport. The device can be used to monitor the temperature of the organ during transportation, ensuring that it remains at the appropriate temperature and is not damaged during transit. The device can also be used to track the location of the transport vehicle and provide real-time data to medical professionals, ensuring that the organ arrives at its destination safely and on time.
+
+Other potential uses for this device include monitoring temperature and location in agricultural settings, such as in greenhouses or on farms, and monitoring temperature and location in industrial settings, such as in warehouses or factories. Overall, the versatility and long battery life of this device make it a valuable tool for a wide range of industries and applications.
+
 ## Docs
 - [Project Requirements](./doc/requirements.md)
 - [Server Communication Protocol](./doc/protocol.md)
